@@ -35,17 +35,6 @@ The CCNA track is divided into multiple semesters, each focusing on a specific a
 
 ---
 
-## Images from My Journey
-
-![Networking Basics]![images](https://github.com/user-attachments/assets/e41e3c35-4fd0-4aae-b694-3a436dd9a1d0)
-![Switching and Routing](https://via.placeholder.com/600x300?text=Switching+and+Routing)
-
-![Advanced Networking](https://via.placeholder.com/600x300?text=Advanced+Networking)
-
-![Exam Preparation](https://via.placeholder.com/600x300?text=Exam+Preparation)
-
----
-
 ## Why CCNA?
 
 The CCNA certification is a globally recognized credential that opens doors to a variety of networking roles. Through this program, I aim to:
@@ -59,3 +48,8 @@ The CCNA certification is a globally recognized credential that opens doors to a
 ## Acknowledgments
 
 Special thanks to NTI for providing a top-notch learning environment and to my instructors and peers for their invaluable support throughout this journey.
+
+---
+![nti_banner](https://github.com/user-attachments/assets/5fd27c5b-f321-49eb-8e09-2cb59df6a58d)
+<h2 align="center">National Telecommunication Institute (NTI)</h2>
+
