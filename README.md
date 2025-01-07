@@ -4,7 +4,7 @@ Welcome to my journey of exploring the **Cisco Certified Network Associate (CCNA
 
 ## About Me
 
-Hi, I'm [Your Name], a networking enthusiast and a beginner in the tech world. This is my first step into the exciting realm of computer networks, and I'm thrilled to share my progress as I delve deeper into CCNA concepts.
+Hi, I'm **Abdelrahman Alkhalfi**, a networking enthusiast and a beginner in the tech world. This is my first step into the exciting realm of computer networks, and I'm thrilled to share my progress as I delve deeper into CCNA concepts.
 
 ---
 
@@ -37,8 +37,7 @@ The CCNA track is divided into multiple semesters, each focusing on a specific a
 
 ## Images from My Journey
 
-![Networking Basics](https://via.placeholder.com/600x300?text=Networking+Basics)
-
+![Networking Basics]![images](https://github.com/user-attachments/assets/e41e3c35-4fd0-4aae-b694-3a436dd9a1d0)
 ![Switching and Routing](https://via.placeholder.com/600x300?text=Switching+and+Routing)
 
 ![Advanced Networking](https://via.placeholder.com/600x300?text=Advanced+Networking)
